@@ -1,0 +1,34 @@
+{
+  "nest查询" : {
+    "transaction" : "nest查询",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 844.8540000000006,
+    "medianResTime" : 912.0,
+    "minResTime" : 173.0,
+    "maxResTime" : 1406.0,
+    "pct1ResTime" : 1263.2999999999997,
+    "pct2ResTime" : 1312.0,
+    "pct3ResTime" : 1381.98,
+    "throughput" : 687.757909215956,
+    "receivedKBytesPerSec" : 237.08841987620357,
+    "sentKBytesPerSec" : 92.01448590096287
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 844.8540000000006,
+    "medianResTime" : 912.0,
+    "minResTime" : 173.0,
+    "maxResTime" : 1406.0,
+    "pct1ResTime" : 1263.2999999999997,
+    "pct2ResTime" : 1312.0,
+    "pct3ResTime" : 1381.98,
+    "throughput" : 687.757909215956,
+    "receivedKBytesPerSec" : 237.08841987620357,
+    "sentKBytesPerSec" : 92.01448590096287
+  }
+}

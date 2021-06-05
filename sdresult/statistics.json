@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1324.5140000000013,
+    "medianResTime" : 1348.0,
+    "minResTime" : 92.0,
+    "maxResTime" : 2093.0,
+    "pct1ResTime" : 1958.9,
+    "pct2ResTime" : 1999.0,
+    "pct3ResTime" : 2055.98,
+    "throughput" : 328.1916639317362,
+    "receivedKBytesPerSec" : 55.76694289465048,
+    "sentKBytesPerSec" : 44.22895470955037
+  },
+  "springcloud删除数据请求" : {
+    "transaction" : "springcloud删除数据请求",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1324.5140000000013,
+    "medianResTime" : 1348.0,
+    "minResTime" : 92.0,
+    "maxResTime" : 2093.0,
+    "pct1ResTime" : 1958.9,
+    "pct2ResTime" : 1999.0,
+    "pct3ResTime" : 2055.98,
+    "throughput" : 328.1916639317362,
+    "receivedKBytesPerSec" : 55.76694289465048,
+    "sentKBytesPerSec" : 44.22895470955037
+  }
+}

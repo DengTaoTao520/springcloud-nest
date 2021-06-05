@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 568.1059999999993,
+    "medianResTime" : 603.0,
+    "minResTime" : 13.0,
+    "maxResTime" : 1089.0,
+    "pct1ResTime" : 1025.0,
+    "pct2ResTime" : 1035.0,
+    "pct3ResTime" : 1041.0,
+    "throughput" : 683.9945280437757,
+    "receivedKBytesPerSec" : 144.28009575923392,
+    "sentKBytesPerSec" : 161.64714432284543
+  },
+  "nest添加数据请求" : {
+    "transaction" : "nest添加数据请求",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 568.1059999999993,
+    "medianResTime" : 603.0,
+    "minResTime" : 13.0,
+    "maxResTime" : 1089.0,
+    "pct1ResTime" : 1025.0,
+    "pct2ResTime" : 1035.0,
+    "pct3ResTime" : 1041.0,
+    "throughput" : 683.9945280437757,
+    "receivedKBytesPerSec" : 144.28009575923392,
+    "sentKBytesPerSec" : 161.64714432284543
+  }
+}
